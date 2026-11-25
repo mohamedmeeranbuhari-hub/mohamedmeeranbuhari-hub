@@ -6,7 +6,6 @@ I am passionate about control systems, embedded electronics, AI, and physics-bas
 
 ### 🔭 Currently Working On
 * **Stylus for Non-Touch Screens:** Designing hardware to interpret inputs on standard displays.
-* **Sunlight-Mimicking Lighting System:** Building a dynamic controller to adjust light color and intensity based on circadian rhythms and time of day.
 * **Modular Helmet Retrofit Device:** Developing smart retrofits for gig workers (delivery and bike taxi riders).
 
 ### ⚙️ My Stack & Hardware Focus
